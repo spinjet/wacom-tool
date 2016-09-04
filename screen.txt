@@ -1,5 +1,0 @@
-LVDS1 connected primary 1366x768+1440+0 (normal left inverted right x axis y axis) 340mm x 190mm
-DP1 disconnected (normal left inverted right x axis y axis)
-HDMI1 disconnected (normal left inverted right x axis y axis)
-VGA1 connected 1440x900+0+0 (normal left inverted right x axis y axis) 410mm x 260mm
-VIRTUAL1 disconnected (normal left inverted right x axis y axis)
